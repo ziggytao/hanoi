@@ -1,2 +1,2 @@
 # hanoi
-    a recursive method.
+    A recursive approach to rearrange the positive numbers and negative numbers. 
